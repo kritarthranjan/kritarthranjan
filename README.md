@@ -1,50 +1,45 @@
-```text
-kritarth@dev:~$ whoami
-kritarth-ranjan  # AI/ML developer
+<div align="center">
 
-kritarth@dev:~$ cat focus.txt
-local-first AI
-retrieval you can verify
-models that train on a free T4
+# Kritarth Ranjan
 
-kritarth@dev:~$ tree projects/ -L 1
-projects/
-├── quorum/        multi-agent research, claim checking, cited answers
-├── quicdraw-ai/   U-Net diffusion for sketches on a small GPU
-├── aethervexa/    AI watermark and provenance analysis (Windows)
-└── rag-eval/      RAG test harness, no infrastructure needed
+### ML Engineer · Applied AI · Deep Learning
 
-kritarth@dev:~$ ls more/
-jobmatch-ai/  password-manager/
+I build practical AI systems, explore neural networks, and turn machine-learning ideas into useful software.
 
-kritarth@dev:~$ cat stack.txt
-python  pytorch  fastapi  langgraph  qdrant  docker
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-kritarth@dev:~$ cat rule.txt
-if I can't measure it, I don't claim it
-kritarth@dev:~$ cat contact.txt
-````
+[Projects](#featured-projects) · [Toolkit](#toolkit) · [Connect](#connect)
 
-web&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`kritarth.byethost5.com`](https://kritarth.byethost5.com/)<br>
-linkedin&nbsp;&nbsp;[`linkedin.com/in/kritarth-ranjan`](https://linkedin.com/in/kritarth-ranjan)<br>
-github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`github.com/kritarthranjan`](https://github.com/kritarthranjan)
+</div>
 
-```text
-kritarth@dev:~$ █
-```
-````
+---
 
-So the structure is: one code block from `whoami` through the `cat contact.txt` line, the three link lines, then a short code block holding only the last prompt.
+## What I work on
 
-- **Alignment:** the `&nbsp;` entities keep the columns lined up, because plain spaces collapse outside code blocks.
-- **Look:** wrapping each link in backticks makes it render in monospace, so it still matches the terminal text, and it's clickable and blue.
-- **Trade-off:** the contact lines now sit between two gray blocks, so there's a visible gap in the terminal. That's the cost of clickable links in text form.
+- Machine learning, deep learning, and neural networks
+- Retrieval and research systems with verifiable sources
+- Efficient model experiments and practical AI applications
 
-You can make the other project names clickable the same way. Put each `tree` line outside the code block as a link, or keep the dedicated link line under the block. Say which you prefer.
+## Featured projects
 
-The SVG version has the same limit, since links inside an `<img>` aren't clickable. The workaround is to cut the SVG into slices (top, one slice per link line, bottom) and wrap each link slice in a markdown link. It stays pure black and clickable, but it's more files to maintain. I can generate that set if you want it.
+| Project | Overview |
+| --- | --- |
+| [**Quorum**](https://github.com/kritarthranjan/Quorum) | Multi-agent research assistant that searches sources, checks claims, and writes cited answers. |
+| [**QuicDraw-AI**](https://github.com/kritarthranjan/QuicDraw-AI) | U-Net diffusion model for 32×32 Quick, Draw! sketches, optimized for limited GPU memory. |
+| [**AETHERVEXA**](https://github.com/kritarthranjan/AETHERVEXA) | Windows tool for AI watermark and content-provenance analysis. |
+| [**JobMatch-AI**](https://github.com/kritarthranjan/JobMatch-AI) | Privacy-first browser extension that matches job descriptions to resumes locally. |
+| [**Password-Manager**](https://github.com/kritarthranjan/Password-Manager) | Password manager for encrypted storage and secure sharing. |
 
-kritarth@dev:~$ █
-```
+## Toolkit
 
-[quorum](https://github.com/kritarthranjan/Quorum) · [quicdraw-ai](https://github.com/kritarthranjan/QuicDraw-AI) · [aethervexa](https://github.com/kritarthranjan/AETHERVEXA) · [website](https://kritarth.byethost5.com/) · [linkedin](https://linkedin.com/in/kritarth-ranjan)
+**ML & data:** Python · PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · pandas  
+**AI & backend:** FastAPI · LangGraph · Qdrant · Django · Flask  
+**Tools:** Docker · Git · AWS · Azure · Google Cloud
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritarth-ranjan)
+[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kritarth.byethost5.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kritarthranjan)
