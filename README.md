@@ -1,16 +1,20 @@
 <div align="center">
 
-# Hi, I'm Kritarth Ranjan 👋
+# Kritarth Ranjan 👋
 
-### ML Engineer · Applied AI · Practical software
+### Student · Machine Learning Enthusiast · Aspiring Researcher
 
-I build useful AI and software projects—from research assistants and retrieval systems to focused machine-learning experiments.
+Exploring machine learning, deep learning, and neural networks—and learning by building intelligent systems.
 
-[Projects](#featured-projects) · [Tech I use](#tools-and-interests) · [GitHub](https://github.com/kritarthranjan)
+[Featured projects](#featured-projects) · [Tech stack](#tech-stack) · [Connect](#connect)
 
 </div>
 
 ---
+
+## About me
+
+I’m a student passionate about AI and how it can make a difference. I enjoy exploring new ideas, building projects, and collaborating with others to create useful things.
 
 ## Featured projects
 
@@ -21,13 +25,14 @@ I build useful AI and software projects—from research assistants and retrieval
 | [**QuicDraw-AI**](https://github.com/kritarthranjan/QuicDraw-AI) | A compact U-Net diffusion model for generating Quick, Draw! sketches, designed for limited GPU memory. |
 | [**Password-Manager**](https://github.com/kritarthranjan/Password-Manager) | A password manager focused on encrypted storage and secure sharing. |
 
-## Tools and interests
+## Tech stack
 
-**Python** · **Machine learning** · **Applied AI** · **FastAPI** · **LangGraph** · **Qdrant**
+**Languages:** Python · C/C++ · JavaScript · PHP · Go · R  
+**Machine learning:** PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · NumPy · pandas  
+**Tools and platforms:** FastAPI · Django · Flask · Node.js · MySQL · SQLite · Docker · AWS · Azure · Google Cloud
 
-I’m interested in making AI systems more useful, transparent, and approachable—and in building software that solves real problems.
+## Connect
 
-## Find me
-
-- GitHub: [@kritarthranjan](https://github.com/kritarthranjan)
-- Website: [kritarth.byethost5.com](https://kritarth.byethost5.com/)
+- [LinkedIn](https://linkedin.com/in/kritarth-ranjan)
+- [Personal website](https://kritarth.byethost5.com/)
+- [GitHub](https://github.com/kritarthranjan)
